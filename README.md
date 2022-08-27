@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Joris
-- 👀 I’m interested in science and financial markets
+- 👀 I’m interested in energy sector and watchmaking industry
+- 👀 I have a background in engineering and learned about data by doing through my different experiences
 - 🌱 I’m currently taking the Google data analytics certificate
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 joris.gauliard@gmail.com
