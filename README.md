@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/jorisgauliard/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/jorisgauliard/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  <a href="mailto:joris.gauliard@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" />
   </a>
 </p>
 
