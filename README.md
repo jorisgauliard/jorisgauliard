@@ -2,7 +2,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorisgauliard/">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.linkedin.com/in/jorisgauliard/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
