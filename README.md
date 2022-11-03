@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joris
+# Hi, I’m Joris
 - 👀 I’m interested in watchmaking, energy. healthcare and transportation. I have a background in engineering and learned about data by implementing digital solutions through my different experiences
 - 🌱 I have completed the Google data analytics certificate and I am preparing the Microsoft Power BI Data Analyst Certification
 - 💞️ I’m looking for collaborating on data analysis projects
