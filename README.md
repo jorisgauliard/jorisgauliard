@@ -1,6 +1,6 @@
 # <p align="center">Hi, I’m Joris</p>
 
-- I’m interested in watchmaking, energy. healthcare and transportation
+- I’m interested in the watchmaking industry and aerospace
 
 - I have a Master of Engineering and a Master of Business Administration
 
