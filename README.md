@@ -1,7 +1,7 @@
 # <p align="center">Hi, I’m Joris</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/jorisgauliard/">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
