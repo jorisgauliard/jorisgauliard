@@ -33,9 +33,7 @@
   <a href="">
     <img src="https://icons8.com/icon/BQJc3mm8NGYs/tableau-software" />
   </a>
-  <a href="">
-    <img src="https://icons8.com/icon/11566/microsoft-excel" />
-  </a>
+  <a target="_blank" href="">Microsoft Excel</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 </p>
 
 
