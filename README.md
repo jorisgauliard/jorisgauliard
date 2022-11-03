@@ -1,6 +1,6 @@
 # <p align="center">Hi, I’m Joris</p>
 
-## Reach out to me:
+**Reach out to me:
 <p align="left">
   <a href="https://www.linkedin.com/in/jorisgauliard/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
