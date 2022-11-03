@@ -1,6 +1,6 @@
 # <p align="center">Hi, I’m Joris</p>
 
-**Reach out to me:
+**Reach out to me:**
 <p align="left">
   <a href="https://www.linkedin.com/in/jorisgauliard/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -10,8 +10,20 @@
   </a>
 </p>
 
+**Cloud Fundamentals**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=light)](https://skillicons.dev)
+<p align="left">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=azure&theme=light" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/65113f20-b821-4c30-b88b-58e5275ac10e">
+    <img src="https://skillicons.dev/icons?i=gcp&theme=light" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=aws&theme=light" />
+  </a>
+</p>
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
