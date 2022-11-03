@@ -27,10 +27,10 @@
 **Business Intelligence Tools:**
 <p align="left">
 	<a href="">
-		<img src="https://icons8.com/icon/03aYi0fY0D9X/power-bi" />
+		<img src="https://img.icons8.com/ios/50/null/power-bi.png"/>
 	</a>
 	<a href="">
-		<img src="https://icons8.com/icon/BQJc3mm8NGYs/tableau-software" />
+		<img src="https://img.icons8.com/ios-filled/50/null/tableau-software.png"/>
 	</a>
 </p>
 
