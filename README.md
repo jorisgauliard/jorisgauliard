@@ -6,11 +6,11 @@
 
 - I deploy data products to provide insights and support data-driven decision making
 
-- I have completed the Google data analytics certificate and I am preparing few other certification including:
+- I have obtained the Google Data Analytics and the Microsoft Power BI Data Analyst certificates and I am preparing few other certification including:
 
-	- Microsoft Power BI Data Analyst
+	- MS - Azure Fundamentals
 	
-	- Cloud Digital Leader
+	- GCP - Cloud Digital Leader
 	
 - I’m looking for collaborating on data analysis projects
 
